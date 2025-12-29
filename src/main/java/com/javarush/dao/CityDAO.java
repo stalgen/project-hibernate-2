@@ -1,6 +1,5 @@
-package com.javarush;
+package com.javarush.dao;
 
-import com.javarush.dao.GenericDAO;
 import com.javarush.domain.City;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
